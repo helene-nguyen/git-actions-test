@@ -1,6 +1,5 @@
-
 name: Super-Linter
-# On push event, checking code and run super linter
+
 on: push
 
 jobs:
