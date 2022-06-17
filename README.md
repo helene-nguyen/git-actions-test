@@ -3,7 +3,7 @@
 ## Steps
 
 
-- Create a new file directory .github/super-linter.yml
+- Create a new file directory .github/workflows/super-linter.yml
 - Do commit
 
 First, there was an error with 
